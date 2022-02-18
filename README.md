@@ -1,6 +1,8 @@
 # ML teaching materials
 
 ## Algotithm demos
+- [Streamlit playground with multiple algorithms](https://share.streamlit.io/ahmedbesbes/playground/main/app.py) - [source](https://github.com/ahmedbesbes/playground)
+
 ### KNN
 - [algorithm steps](https://adotg.github.io/knn-what-how-why/)
 - [influence of the hyperparameters](http://vision.stanford.edu/teaching/cs231n-demos/knn/)
