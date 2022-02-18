@@ -18,6 +18,7 @@
 ### Gradient Boosting 
 - [Regression](https://arogozhnikov.github.io/2016/06/24/gradient_boosting_explained.html)
 - [Classification](http://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html)
+- [StatQuest](https://www.youtube.com/results?search_query=statquest+gradient+boosting) - the whole YT channel has good videos
 
 ### Random Forest
 - [by Andrej Karpathy](https://cs.stanford.edu/~karpathy/svmjs/demo/demoforest.html)
