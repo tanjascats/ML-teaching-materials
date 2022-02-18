@@ -1,7 +1,7 @@
 # ML teaching materials
 
 ## Algotithm demos
-- [Streamlit playground with multiple algorithms](https://share.streamlit.io/ahmedbesbes/playground/main/app.py) - [source](https://github.com/ahmedbesbes/playground)
+- [Streamlit playground with multiple algorithms](https://share.streamlit.io/ahmedbesbes/playground/main/app.py) ([source](https://github.com/ahmedbesbes/playground))
   - model types: Logistic Regression, Decision Tree, Random Forest, Gradient Boosting, Neural Network, K Nearest Neighbors, Gaussian Naive Bayes, SVC
   - demo of decision boundary, accuracy/F1 score on test set, general tips on algorithms
   - hyperparameter influence, dataset distribution influence
