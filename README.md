@@ -38,5 +38,6 @@
 ### Other (blogs, etc.)
 - [Brilliantly wrong](http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html)
 - [R2D3](http://www.r2d3.us/)
+- [Hyperparameter optimisation app](https://share.streamlit.io/dataprofessor/ml-opt-app/main/ml-opt-app.py)
 
 
