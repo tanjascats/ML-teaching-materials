@@ -1,4 +1,4 @@
-# ML-teaching-materials
+# ML teaching materials
 
 ## Algotithm demos
 ### KNN
