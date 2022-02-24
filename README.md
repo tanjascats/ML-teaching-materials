@@ -37,6 +37,7 @@
 ### NNs
 - [by Andrej Karpathy](https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html)
 - [Tensorflow Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.05852&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+- [phiresky@github](phiresky.github.io/neural-network-demo/)
 
 ### Other (blogs, etc.)
 - [Brilliantly wrong](http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html)
