@@ -32,6 +32,7 @@
 
 ### Perceptron
 - [Perceptron](https://developpaper.com/perceptron-tutorial-implementation-and-visual-examples/)
+- [Iteration animation](https://phiresky.github.io/kogsys-demos/neural-network-demo/?preset=Rosenblatt+Perceptron)
 
 ### NNs
 - [by Andrej Karpathy](https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html)
