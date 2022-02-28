@@ -9,7 +9,7 @@
 ### KNN
 - [algorithm steps](https://adotg.github.io/knn-what-how-why/)
 - [influence of the hyperparameters](http://vision.stanford.edu/teaching/cs231n-demos/knn/)
-- ([decision boundary](https://martin-thoma.com/k-nearest-neighbor-classification-interactive-example/) -- !seems incorrect in some setups and there is no source code to verify)
+- [decision boundary](https://martin-thoma.com/k-nearest-neighbor-classification-interactive-example/)
 
 ### Decision Tree
 - [great visuals for intuition on building the DTs](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
