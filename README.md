@@ -26,9 +26,10 @@
 ### SVM
 - [by Andrej Karpathy](https://cs.stanford.edu/people/karpathy/svmjs/demo/)
 
-### Logistic Regression
+### Linear and Logistic Regression
 - [calculator](https://www.desmos.com/calculator/naf1qogfjn)
 - [gradient descent demo](https://share.streamlit.io/christopherdavisuci/streamlit_ed/main/grad_desc.py)
+- [linear regression](https://colab.research.google.com/github/CC-MNNIT/2018-19-Classes/blob/master/MachineLearning/2018_08_22_Logical-Rhythm-2/linear_regression.ipynb#scrollTo=pHGbi8nY-eqI)
 
 ### Perceptron
 - [Perceptron](https://developpaper.com/perceptron-tutorial-implementation-and-visual-examples/)
