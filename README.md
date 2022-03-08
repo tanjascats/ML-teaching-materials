@@ -30,6 +30,7 @@
 - [calculator](https://www.desmos.com/calculator/naf1qogfjn)
 - [gradient descent demo](https://share.streamlit.io/christopherdavisuci/streamlit_ed/main/grad_desc.py)
 - [linear regression](https://colab.research.google.com/github/CC-MNNIT/2018-19-Classes/blob/master/MachineLearning/2018_08_22_Logical-Rhythm-2/linear_regression.ipynb#scrollTo=pHGbi8nY-eqI)
+- [gradient descent](https://towardsdatascience.com/gradient-descent-algorithm-a-deep-dive-cf04e8115f21#:~:text=Gradient%20descent%20(GD)%20is%20an,e.g.%20in%20a%20linear%20regression) - nice mathematical exmplanation; contains examples of a trajectory of parameters depending on different learning rates
 
 ### Perceptron
 - [Perceptron](https://developpaper.com/perceptron-tutorial-implementation-and-visual-examples/)
